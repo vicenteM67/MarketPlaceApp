@@ -1,0 +1,14 @@
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\MarketPlace.AssemblyInfoInputs.cache
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\MarketPlace.AssemblyInfo.cs
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\bin\Debug\net8.0\MarketPlace.exe
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\bin\Debug\net8.0\MarketPlace.deps.json
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\bin\Debug\net8.0\MarketPlace.runtimeconfig.json
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\bin\Debug\net8.0\MarketPlace.dll
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\bin\Debug\net8.0\MarketPlace.pdb
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\MarketPlace.dll
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\refint\MarketPlace.dll
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\MarketPlace.pdb
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\MarketPlace.genruntimeconfig.cache
+C:\Users\v\RiderProjects\MarketPlace\MarketPlace\obj\Debug\net8.0\ref\MarketPlace.dll
